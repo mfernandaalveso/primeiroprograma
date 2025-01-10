@@ -1,2 +1,2 @@
-# Atividade-2---Primeiro-programa
-Criação do primeiro programa
+# Primeiro Programa 
+Criação do primeiro programa responsivo - desenvolvimento web
